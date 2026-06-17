@@ -1,0 +1,79 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Organizações  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "tag:#Circulo_da_Penumbra  ",
+      "color": {
+        "a": 1,
+        "rgb": 9240811
+      }
+    },
+    {
+      "query": "path:NPCS  ",
+      "color": {
+        "a": 1,
+        "rgb": 6094703
+      }
+    },
+    {
+      "query": "path:Personagens  ",
+      "color": {
+        "a": 1,
+        "rgb": 16736609
+      }
+    },
+    {
+      "query": "path:Objetos  ",
+      "color": {
+        "a": 1,
+        "rgb": 65518
+      }
+    },
+    {
+      "query": "path:Eventos  ",
+      "color": {
+        "a": 1,
+        "rgb": 16737955
+      }
+    },
+    {
+      "query": "path:Lugares  ",
+      "color": {
+        "a": 1,
+        "rgb": 16755015
+      }
+    },
+    {
+      "query": "tag:#Empiria  ",
+      "color": {
+        "a": 1,
+        "rgb": 16774912
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 0.840104166666667,
+  "lineSizeMultiplier": 1.83541666666667,
+  "collapse-forces": true,
+  "centerStrength": 0.523385416666667,
+  "repelStrength": 9.8510416666667,
+  "linkStrength": 0.74609375,
+  "linkDistance": 255,
+  "scale": 0.6316046762907357,
+  "close": true
+}

@@ -1,0 +1,1 @@
+Local onde encontramos e derrotamos [[De Ébano]]

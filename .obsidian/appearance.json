@@ -1,0 +1,15 @@
+{
+  "accentColor": "#d10000",
+  "interfaceFontFamily": "Times,Times New Roman",
+  "textFontFamily": "Times New Roman,Times",
+  "cssTheme": "",
+  "baseFontSizeAction": false,
+  "nativeMenus": false,
+  "theme": "obsidian",
+  "monospaceFontFamily": "Times",
+  "baseFontSize": 20,
+  "enabledCssSnippets": [
+    "obsidian-default-theme",
+    "highlight-red"
+  ]
+}
