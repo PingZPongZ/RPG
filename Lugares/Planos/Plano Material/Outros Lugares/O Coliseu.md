@@ -1,1 +1,1 @@
-Local onde acontece o [[Torneio dos Mil Caminhos|Grande Torneio]]
+Local onde acontece o [[Grande Torneio|Grande Torneio]]

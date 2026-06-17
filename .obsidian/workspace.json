@@ -42,9 +42,33 @@
               "icon": "lucide-file",
               "title": "Alice"
             }
+          },
+          {
+            "id": "456fc3a9ed8e6635",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eventos/Grande Torneio.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Grande Torneio"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,15 +218,16 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "c8b6ad8f90965b78",
+  "active": "456fc3a9ed8e6635",
   "lastOpenFiles": [
+    "Personagens/Alice.md",
+    "README.md",
     "D&D/desktop.ini",
     "D&D",
-    "Personagens/Alice.md",
     "NPCS/Torga Kurmal.md",
     "NPCS/Silencioso.md",
     "Tendas de Sangue.md",
-    "Eventos/Torneio dos Mil Caminhos.md",
+    "Eventos/Grande Torneio.md",
     "Personagens/Oromë.md",
     "Lugares/Planos/Plano Material/Outros Lugares/O Coliseu.md",
     "Lugares/Planos/Plano Material/Reinos/Reino Anão.md",
@@ -239,7 +264,6 @@
     "Imagens/Armadura Alice.jpeg",
     "Lugares/Planos/Plano Feérico/Cidades/desktop.ini",
     "Lugares/Planos/Plano Feérico/Cidades",
-    "Lugares/Planos/desktop.ini",
     "Pensamentos/Trato do Rei.canvas",
     "Teste.canvas",
     "Sem título 1.canvas"
