@@ -21,3 +21,6 @@ Segundo Arvanna o baú que recuperamos do Wyvern contia uma "==Parte do Abismo==
 Capitão da embarcação que usamos para ir para a [[Cidade em Ruínas]]
 
 Encontramos ele no Porto de [[Watertoll]]. É um sujeito bem suspeito, fez um pacto misterioso com [[Rene]].
+
+Derrotado por
+- [[Grupo]]
