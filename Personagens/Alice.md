@@ -26,6 +26,6 @@ Na Cidade em Ruínas
 # Parte II - Empiria
 Após inúmeros eventos fomos para Empiria, em busca de mais informações sobre o Círculo da Penumbra.
 
-Em Empiria, o demônio Azeroth me disse que [[Lillith]] estava em Batalhor, uma cidade-estado próxima ao Império de Zhar Kha'Rim. Por isso, pretendo seguir viagem até lá.
+Em Empiria, o demônio [[Azeroth]] me disse que [[Lillith]] estava em Batalhor, uma cidade-estado próxima ao Império de Zhar Kha'Rim. Por isso, pretendo seguir viagem até lá.
 # Parte III - Batalhor
 Em Batalhor nós participamos do [[Grande Torneio]] 
