@@ -18,6 +18,8 @@ Ela também nos contou:
 ### *==Outros==*
 -  Fomos atacados por membros do Círculo em uma praia a caminho de Batalhor. Suas armas eram feitas de ==Ferro Frio==, um material especialmente eficaz contra feéricos.
 	Após o confronto, Oromë percebeu que o Martelo empunhado pelo líder dos inimigos que nos atacaram, carregava a marca de sua família. Um sinal alarmante de que o Círculo possa ter assumido controle do [[Reino Anão]], e seu pai, [[Húrin]], sendo forçado para fabricar armas para eles.
+
+- [[Lillith]] me disse que o círculo está atrás de um vampiro "especial"
 #### ==Ferro Frio==
 É encontrado em grande escala na Umbreterna.
 
