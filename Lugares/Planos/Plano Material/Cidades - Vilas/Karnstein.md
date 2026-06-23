@@ -1,1 +1,1 @@
-Vila da ilha de [[Estíria]] onde [[Alice|eu]] e minha [[Lillith|irmã]] crescemos
+Vila da ilha de [[Estíria]] onde [[Alice|eu]] e minha [[NPCS/Lillith|irmã]] crescemos
