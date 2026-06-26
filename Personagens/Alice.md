@@ -1,4 +1,5 @@
 # Background
+
 >*“Eu me lembro de ter saído com a minha irmã para ir ao festival, e depois disso eu só lembro de estarmos correndo pra dentro da floresta e... e sangue...”*
 
 Eu vim de uma pequena vila chamada [[Karnstein]], localizada na ilha de [[Estíria]]. Foi lá que passei a maior parte da minha infância ao lado de meus pais e da minha [[NPCS/Lillith|irmã]] mais velha. Desde pequena, minha aparência chamava atenção: *cabelos brancos como a neve e olhos amarelos brilhantes*, uma característica incomum que me distinguia dos outros habitantes da vila.

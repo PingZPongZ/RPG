@@ -1,6 +1,7 @@
 ---
 tags:
   - Empiria
+  - Abismo
 ---
 Capital de [[Eldoria]]
 

@@ -1,6 +1,8 @@
 ---
 tags:
   - Zhar_Kha-Rim
+aliases:
+  - Império de Zhar Kha' Rim
 ---
 Império dos Senhores dos Quatro
 

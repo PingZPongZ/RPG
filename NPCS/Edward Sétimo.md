@@ -1,3 +1,7 @@
+---
+tags:
+  - Empiria
+---
 Homem suspeito que me abordou no [[Banco de Empiria]] 
 
 Diz ser dono de diversas estalagens.

@@ -1,3 +1,7 @@
+---
+tags:
+  - Circulo_da_Penumbra
+---
 O contrato diz:
 
 > **Vocês receberam metade do pagamento. O restante será entregue em [[Watertoll]], após a conclusão do serviço.**

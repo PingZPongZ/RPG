@@ -5,10 +5,10 @@ tags:
   - Zhar_Kha-Rim
 ---
 
-[[Conselheiros de Empiria|Conselheira]] do Comércio
-Membro do [[Círculo da Penumbra]] 
-Membro da [[Casa Aer]]
-Nasceu em [[Zhar Kha'Rim]]
+- [[Conselheiros de Empiria|Conselheira]] do Comércio
+- Membro do [[Círculo da Penumbra]] 
+- Membro da [[Casa Aer]]
+- Nasceu no [[Zhar Kha' Rim|Império de Zhar Kha' Rim]]
 
 Entramos em sua [[Mansão da Arvanna|Mansão]], localizada no Distrito Real, onde ela nos revelou estar, de certa forma, sendo mantida como uma refém pelo Círculo da Penumbra. Apesar disso, deixou claro que seu maior desejo é resgatar seu irmão, [[Karryr]], que ainda está nas mãos da organização.
 

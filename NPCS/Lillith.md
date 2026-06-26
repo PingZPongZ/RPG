@@ -1,3 +1,8 @@
+---
+tags:
+  - Circulo_da_Penumbra
+  - Zhar_Kha-Rim
+---
 [[Alice|Minha]] irmã mais velha.
 
 De alguma maneira ela esta envolvida com o [[Círculo da Penumbra]]

@@ -12,10 +12,13 @@ Arvanna disse que é difícil saber ao certo quem comanda todo o Círculo, mas m
 - A segunda é um homem conhecido apenas como "o Executor", responsável por caçar desertores e garantir que ninguém consiga escapar da organização.  
 - A terceira, e talvez mais enigmática, é uma figura misteriosa que muitos consideram o verdadeiro líder do Círculo, embora sua identidade permaneça desconhecida.
 
-Ela também nos contou: 
->*“De acordo com minhas investigações, as embarcações do Círculo da Penumbra são enviadas para o continente oeste, mas antes de chegarem lá, passam por seis ou sete embarcações diferentes ao longo do trajeto.”*
+
 
 ### *==Outros==*
+
+- Arvanna disse: 
+>*“De acordo com minhas investigações, as embarcações do Círculo da Penumbra são enviadas para o [[Continente Oeste]], mas antes de chegarem lá, passam por seis ou sete embarcações diferentes ao longo do trajeto.”*
+
 -  Fomos atacados por membros do Círculo em uma praia a caminho de Batalhor. Suas armas eram feitas de ==Ferro Frio==, um material especialmente eficaz contra feéricos.
 	Após o confronto, Oromë percebeu que o Martelo empunhado pelo líder dos inimigos que nos atacaram, carregava a marca de sua família. Um sinal alarmante de que o Círculo possa ter assumido controle do [[Reino Anão]], e seu pai, [[Húrin]], sendo forçado para fabricar armas para eles.
 
@@ -28,3 +31,6 @@ Aparentemente serve pra mostrar a hierarquia da pessoa dentro do círculo
 
 A Marca é removida com a morte de outra pessoa 
 > *“Uma vida por uma vida”*
+
+Ela também nos contou: 
+>*“De acordo com minhas investigações, as embarcações do Círculo da Penumbra são enviadas para o continente oeste, mas antes de chegarem lá, passam por seis ou sete embarcações diferentes ao longo do trajeto.”*
